@@ -14,7 +14,7 @@
     
 </div>
 
-## Contents
+## Note
 
 This is a fork of the `react-tailwindcss-datepicker` library with additional functionality.
 
